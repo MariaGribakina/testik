@@ -1,5 +1,1 @@
-Hello, world Its me > README.md
-git status
-
-
-echo Hello, world Its me
+Hello, world, its me
